@@ -12,6 +12,6 @@ int A=3;
 int B=5;
 int c=A+B;
 
-System.out.println("Welcome to My First Java Program!");
+System.out.println("Welcome to My First Jav Program!");
 }
 }
