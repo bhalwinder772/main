@@ -6,8 +6,12 @@ public static void main(string[] args)
 {
 \******************************************
 write a program that ads A to B and store the result of c
-where A=1,B=3,c=4;
+where A=1,B=3;
 ***************************\
+int A=3;
+int B=5;
+int c=A+B;
+
 System.out.println("Welcome to My First Java Program!");
 }
 }
